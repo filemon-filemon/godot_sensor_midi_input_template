@@ -7,7 +7,7 @@ extends Node2D
 #This variable is made to store the number of the control change, and therefore to know which controller is in use
 var raw_controller_number := 1
 #This variable is made to store the integer sent by the sensor, from 0 to 127
-var raw_midi_value := 1
+var raw_midi_value := 1.0
 #This variable is made to store the midi_raw_value expressed in a float from 0 to 1
 var pc_midi_value := 0.0
 
