@@ -3,7 +3,7 @@ extends Node2D
 @onready var sprite = $Sprite2D
 
 var raw_controller_number := 1
-var raw_midi_value := 1
+var raw_midi_value := 1.0
 var pc_midi_value := 0.0
 
 var pc_controller_number := 1
