@@ -7,7 +7,7 @@ extends Node2D
 #Cette variable est faite pour garder en mémoire les numéros des ports du control change, pour savoir quel capteur est en train d'être utilisé
 var raw_controller_number := 1
 #Cette variable est faite pour garder l'integer envoyé par le capteur, sa valeur va de 0 à 127
-var raw_midi_value := 1
+var raw_midi_value := 1.0
 #Cette variable est faite pour garder la valeur raw_midi_value, mais sous une forme plus utilisable dans le reste du code, sous forme d'un float allant de 0 à 1
 var pc_midi_value := 0.0
 
