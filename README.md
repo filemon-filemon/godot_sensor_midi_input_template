@@ -7,5 +7,8 @@ node_2d_UNCOMMENTED.gd is just the code without the comments.
 You can rename one of those files into ode_2d.gd or attach one of them to the node_2d node in the godot project for everything to work :)
 Have fun !!
 
+Made a repo using this one to make a program to test out sensors (a sensor gradation vizualizer):  
+https://github.com/filemon-filemon/godot_midi_gradation_template/tree/main
+
 GAMES MADE WITH THIS TEMPLATE:  
 -Weird flappy bird : https://filemon-filemon.itch.io/weird-flappy-bird
